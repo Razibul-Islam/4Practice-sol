@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "task",
+				"outputs": [
+					{
+						"internalType": "contract Task",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"TodoList/TodoList.sol": "Task"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"TodoList/TodoList.sol": {
+			"keccak256": "0xdeef82ed0cfee1b9879f0f21bc0c7d514cbd5e5da402943652c8ab9eaca37e62",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://88f785256663eafbfacdc0709253751701ca44d3c7528c79c30c3be213c92507",
+				"dweb:/ipfs/QmcLrghfh5ocY5dCmPv1GZiyhS3x5MSU6yH4kk7Rg4j1T5"
+			]
+		}
+	},
+	"version": 1
+}
