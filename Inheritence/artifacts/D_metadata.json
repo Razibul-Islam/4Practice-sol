@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "message",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Inheritence/DiamondProbleminSolidity.sol": "D"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Inheritence/DiamondProbleminSolidity.sol": {
+			"keccak256": "0xcbe874990ab29bb372d4a705fec9efc8ee68e84e19997b37ca5d3c8f4464da65",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f61b5510024b499d0df5a5fdaeb4a4786fbcce0b2f76eedcb762c3ff0233e0f3",
+				"dweb:/ipfs/QmQK5JRXpbbHLpYQraUpDZA84iAHrtURHLNDNPdLxE7rL1"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "makeSound",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Inheritence/Animal.sol": "Dog"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Inheritence/Animal.sol": {
+			"keccak256": "0x72b00b967c3cd36629f664915998ccbc7c3551d02229d2a1f2ac098135d7a6b4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1a6b38dd1420007c3d032dcf1ffda7365f0ef1e69d3643cd201fa4e9e54e90b1",
+				"dweb:/ipfs/QmYDuRknhJsxQvQ2KdDQv73GNa3xCoao4rALsGJW5ac7Pr"
+			]
+		}
+	},
+	"version": 1
+}

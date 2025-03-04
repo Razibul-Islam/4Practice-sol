@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Inheritence/FunctionModifierwithInheritance.sol": "parent"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Inheritence/FunctionModifierwithInheritance.sol": {
+			"keccak256": "0xf3ba84d2646dbbb18c7949955eecb1bbec7c257d1af0d54f323a461100faf510",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c11edadf702c7d8d498275380b93c502af3c9b626e1402053fd13e65c8555f7e",
+				"dweb:/ipfs/QmerCxu9wUrpUKJMvK66wxxDArjfrZHyX6yxhngA7vFgvX"
+			]
+		}
+	},
+	"version": 1
+}

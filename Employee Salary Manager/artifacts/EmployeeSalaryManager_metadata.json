@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Employee Salary Manager/EmployeeSalaryManager.sol": "EmployeeSalaryManager"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Employee Salary Manager/EmployeeSalaryManager.sol": {
+			"keccak256": "0x432ab6c54699501818ace9ffed55ca134500b2adab7f6a7d20b56cff298f979f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5b331f4b4e0375ea704b69b2454eef2aac065e9e680b246997e78e40ed2f2a96",
+				"dweb:/ipfs/QmNwQ4miADfbLocUv4vmChVqagfnwt21YoN2B8eBYLobB8"
+			]
+		}
+	},
+	"version": 1
+}

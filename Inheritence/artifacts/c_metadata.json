@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Inheritence/DiamondProbleminSolidity.sol": "c"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Inheritence/DiamondProbleminSolidity.sol": {
+			"keccak256": "0x98071fdafaf719d09aad241d950580ed31781091ea0ced659cdbef66c1c3c40a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6e8f8710c7e5f913079f49d7276cf9a3201087aa55fafaa1bcab434071800254",
+				"dweb:/ipfs/Qmc2bpfYiJN9vL8CERZ5CxK251RcdcU6mjdimhJkJfMGor"
+			]
+		}
+	},
+	"version": 1
+}
