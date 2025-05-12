@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"TodoList/simpleTodo.sol": "simp"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"TodoList/simpleTodo.sol": {
+			"keccak256": "0x8c621ed5f9b785b4071b76cc4ccf9173f1043f3ca261b1c7bafe92aa4a9c315e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ade9112c461da07eba3f9385960ce985c05451a112dfd3d1394c3e4a4de40cfb",
+				"dweb:/ipfs/QmXxuyvhqQ5C3xpN732SfPDCpHPTRf9nZyBXn7Z3DYsT1P"
+			]
+		}
+	},
+	"version": 1
+}
